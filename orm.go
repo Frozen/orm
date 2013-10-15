@@ -75,7 +75,6 @@ func main() {
 	user := &User{}
 	user.id = 1
 	user.Tablename = "user"
-	user.email = "phpconf@gmail.com"
 
 	fmt.Println(user)
 
